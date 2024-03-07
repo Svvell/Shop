@@ -4,6 +4,7 @@ public class Main {
     public static Scanner scan = new Scanner(System.in);
     // Привет
     // здоавтсуйтет
+    // здравствуйте правильно
     private static Category[] catalogue = new Category[3];
     private static User user = new User();
     private static Basket basket = new Basket();
