@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    //dsadwqdsa
+    //jhnegpoafdjgoaefihkadkRH NAEORYHPOEJHOIADFJHGOKHDFJGHAEJTIGJDAIHJOAETJHIOADHAOIASJAUIGUYSUKGAUHJGJEHGUERHGIARGPASJHHGiohoiugauegieuyiae
     public static Scanner scan = new Scanner(System.in);
     private static Category[] catalogue = new Category[3];
     private static User user = new User();
