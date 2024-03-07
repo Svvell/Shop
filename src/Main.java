@@ -5,6 +5,8 @@ public class Main {
     // Привет
     // здоавтсуйтет
     // здравствуйте правильно
+    //okgbqwogjqoeigjpgiorjwuirghiueng3rjhiJ3WRTIFSJGKKASRJKIw5yo4mgi3q5kgi9gjku9i5j
+
     private static Category[] catalogue = new Category[3];
     private static User user = new User();
     private static Basket basket = new Basket();
