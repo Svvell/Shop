@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Main {
-    //jhnegpoafdjgoaefihkadkRH NAEORYHPOEJHOIADFJHGOKHDFJGHAEJTIGJDAIHJOAETJHIOADHAOIASJAUIGUYSUKGAUHJGJEHGUERHGIARGPASJHHGiohoiugauegieuyiae
     public static Scanner scan = new Scanner(System.in);
+    // Привет
     private static Category[] catalogue = new Category[3];
     private static User user = new User();
     private static Basket basket = new Basket();
